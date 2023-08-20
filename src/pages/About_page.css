@@ -1,0 +1,46 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Caveat:wght@500&family=Gruppo&family=Tilt+Prism&display=swap');
+
+.About_bage_images{
+display: flex;
+padding: 10px;
+width: 100%;
+justify-content: space-around;
+}
+.About_bage_images img{
+width: 45%;
+height: 60%;
+}
+.about_steps{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10vh;
+}
+.about_steps h3{
+    width: 90%;
+    font-family: 'Space Mono', monospace;
+}
+.overview_about_continar{
+width: 100%;
+display: flex;
+align-items: center;
+
+justify-content: center;
+
+}
+#main_about_image{
+    width: 100%;
+    object-fit: contain;
+}
+.overview_about{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 95%;
+}
+.overview_about p{
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 4vh;
+    
+}
