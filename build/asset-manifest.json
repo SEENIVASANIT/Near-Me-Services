@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.841aacf0.css",
+    "main.js": "/static/js/main.4f37cd88.js",
+    "static/js/787.faa06649.chunk.js": "/static/js/787.faa06649.chunk.js",
+    "static/media/Nagercoil_city.png": "/static/media/Nagercoil_city.14b936d2d83d56dbfc1d.png",
+    "static/media/loading.gif": "/static/media/loading.1a284438de1dc463a35a.gif",
+    "static/media/Madurai_City_Corporation_Logo.png": "/static/media/Madurai_City_Corporation_Logo.ce62715c373a5292d78a.png",
+    "static/media/Coimbatore_city.png": "/static/media/Coimbatore_city.b6f015e633a0d505f9c3.png",
+    "static/media/Dindugal_city.png": "/static/media/Dindugal_city.de33fcc0b44f533e1b66.png",
+    "static/media/Kanchipuram_city.jpg": "/static/media/Kanchipuram_city.09a7c3b389db2829dee4.jpg",
+    "static/media/Tirunelveli_city.png": "/static/media/Tirunelveli_city.293ca688351139e43909.png",
+    "static/media/Thanjavur_city.png": "/static/media/Thanjavur_city.922d681e7523425716b1.png",
+    "static/media/Tuttukkuti_city.jpg": "/static/media/Tuttukkuti_city.27d81b547b64e68fea54.jpg",
+    "static/media/hosur_city.jpg": "/static/media/hosur_city.5c47c975f745939df8ce.jpg",
+    "static/media/home_backgrount.jpeg": "/static/media/home_backgrount.45d71238a5de457d2687.jpeg",
+    "static/media/Tiruchirappalli_city.png": "/static/media/Tiruchirappalli_city.654329b0b09f73357fe3.png",
+    "static/media/All_workers.jpeg": "/static/media/All_workers.1a24187147fe411186d8.jpeg",
+    "static/media/Avadi_city.jpeg": "/static/media/Avadi_city.3abbea0d9dc1c306754a.jpeg",
+    "static/media/Salem_city.jpg": "/static/media/Salem_city.9e017c4cbef804e842b3.jpg",
+    "static/media/Sivakasi_city.jpeg": "/static/media/Sivakasi_city.5aa157da7a46717d1d0e.jpeg",
+    "static/media/Kumbakonam_city.jpeg": "/static/media/Kumbakonam_city.39fb31bb95dffacbca35.jpeg",
+    "static/media/Cuddalore_city.jpeg": "/static/media/Cuddalore_city.925df48b08a47a6f1a99.jpeg",
+    "static/media/Chennai_city.jpeg": "/static/media/Chennai_city.6dbbff2c5d49e53b34f0.jpeg",
+    "static/media/Erode_city.jpeg": "/static/media/Erode_city.8b7150ad855b02196406.jpeg",
+    "static/media/Karur_city.jpeg": "/static/media/Karur_city.07ffc2e11e30d50303a5.jpeg",
+    "static/media/Tirupur_city.jpeg": "/static/media/Tirupur_city.e4bef85b2411c4e8d6e6.jpeg",
+    "static/media/Tambaram_city.jpg": "/static/media/Tambaram_city.f5563c78eb342c8588a4.jpg",
+    "static/media/Vellore_city.jpeg": "/static/media/Vellore_city.4e3e9cbd9863b74b8b87.jpeg",
+    "index.html": "/index.html",
+    "main.841aacf0.css.map": "/static/css/main.841aacf0.css.map",
+    "main.4f37cd88.js.map": "/static/js/main.4f37cd88.js.map",
+    "787.faa06649.chunk.js.map": "/static/js/787.faa06649.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.841aacf0.css",
+    "static/js/main.4f37cd88.js"
+  ]
+}
